@@ -1,4 +1,6 @@
+language: generic
 sudo: required
+os: windows
 services:
   - docker
 
@@ -7,5 +9,3 @@ before_install:
 
 script:
   - docker run -e CI=true rtimbro185/docker-react npm run test
-
-os: windows
