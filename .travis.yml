@@ -1,6 +1,6 @@
 language: generic
 sudo: required
-#os: windows
+
 services:
   - docker
 
