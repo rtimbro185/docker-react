@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React the easy way... CI/CD...
+          Learn React the easy way... CI/CD... AWS Elastic Beanstalk
         </a>
       </header>
     </div>
